@@ -1,0 +1,42 @@
+/* app.css */
+.ajou {
+  text-align: right; 
+}
+.custom-container {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.custom-container h5 {
+    margin-right: 700px; /* Adjust the value according to your design */
+}
+
+.custom-container svg {
+    margin-right: 15px;
+}
+
+.account-icon {
+    margin-left: 15px;
+}
+.ajou a {
+  padding: 10px 20px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  text-decoration: none;
+  color: #fff;
+  background: #007bff;
+  border-radius: 5px;
+  display: inline-block;
+}
+.album{
+  margin: 50px;
+  padding-top: 150px;
+}
+.album .ajou{
+  padding-bottom: 20px;
+}
+.menu{
+  padding-left: 1050px;
+
+}
+
